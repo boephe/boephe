@@ -9,6 +9,8 @@ I've fiddled a lot with PowerShell and MS SQL and a little with JavaScript, Node
 ### Contacts
 
 [<img align='center' alt='LinkedIn' src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' />](https://www.linkedin.com/in/phoebe-hurren/)
-[<img align='center' alt='Email' src='https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white' />](mailto:phurren@rehoboth.wa.edu.au)
+[<img align='center' alt='Email' src='https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white' />](mailto:phoebe@hurren.id.au)
+
+## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boephe)](https://github.com/boephe/github-readme-stats)
