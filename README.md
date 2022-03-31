@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @boephe
+- 👋 Hi, I’m Phoebe!
 - 👀 I’m interested in Automation and Integration, especially using Microsoft Cloud Services
-- 🌱 I’m currently learning GitHub, PowerShell, MS PowerAutomate, Ansible and Puppet
-- 💞️ I’m looking to collaborate on anything Azure Cloud
+- 🌱 I’m currently learning GitHub, PowerShell, MS Power Automate, C# .NET and ASP.NET, Node.js, React.js and TypeScript
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me phoebe@hurren.id.au
