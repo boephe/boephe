@@ -2,7 +2,7 @@
 
 > ˈbiːfi
 
-I am an IT nerd with a degree in Computer Science (and Games Technology) studying a Master of Teaching (Secondary). I am passionate about empowering young people get the most out of technology while being safe and sensible in the cyber space.<br>
+I am a Secondary Digital Technologies teacher who is passionate about empowering young people to get the most out of technology while being safe and sensible in the cyber space.<br>
 
 ### Contacts
 
